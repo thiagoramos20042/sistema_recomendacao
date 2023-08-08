@@ -1,6 +1,6 @@
 # Sistema de Recomendação 
 # Problema de Negócio Hipotético
-Contexto
+
 A "FitnessGear Inc.", uma empresa líder em equipamentos de treinamento de força, enfrentava um problema significativo com sua plataforma de comércio eletrônico. Embora a empresa oferecesse uma ampla variedade de produtos, desde pesos livres até máquinas sofisticadas, eles estavam enfrentando baixas taxas de conversão e uma média de venda por cliente abaixo das expectativas.
 
 A análise dos padrões de navegação revelou que os clientes frequentemente se sentiam sobrecarregados com a vasta seleção de produtos e tinham dificuldade em encontrar itens que se adequassem às suas necessidades específicas. Como resultado, muitos visitantes saíam do site sem fazer uma compra, ou compravam apenas os itens mais populares, perdendo produtos complementares que poderiam ser de seu interesse.

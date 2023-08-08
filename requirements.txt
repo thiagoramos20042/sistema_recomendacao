@@ -137,16 +137,6 @@ pickleshare==0.7.5
 Pillow==9.4.0
 pip==22.3.1
 pkginfo==1.8.3
-platformdirs==2.5.2
-plotly==5.9.0
-pywin32==305.1
-pywin32-ctypes==0.2.0
-pywinpty==2.0.10
-PyYAML==6.0
-pyzmq==23.2.0
-ruamel.yaml==0.17.21
-ruamel.yaml.clib==0.2.6
-ruamel-yaml-conda==0.17.21
 scikit-image==0.19.3
 scikit-learn==1.2.1
 scikit-learn-intelex==20230228.214818

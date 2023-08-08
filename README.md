@@ -23,3 +23,5 @@ Expansão do Catálogo Vendido: Produtos anteriormente ignorados ou menos popula
 # Funcionamento da aplicação 
 [streamlit-recomendacao-2023-08-08-18-08-96.webm](https://github.com/thiagoramos20042/sistema_recomendacao/assets/70378113/f84ea445-372b-4f1e-9946-5d780d076a5b)
 
+# Deploy do modelo no Streamlit 
+https://sistemarecomendacao-rm8zpkl3y5jvarkd3tlgc8.streamlit.app/

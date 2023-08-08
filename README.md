@@ -18,3 +18,8 @@ Melhoria na Taxa de Conversão: A taxa de conversão do site aumentou em 18%, j�
 - Crescimento na Retenção de Clientes: A experiência de compra personalizada melhorou a satisfação do cliente, resultando em um aumento de 10% na retenção de clientes.
 Expansão do Catálogo Vendido: Produtos anteriormente ignorados ou menos populares começaram a ser vendidos, aumentando a diversidade de vendas e reduzindo o excesso de estoque em 15%.
 - Aumento no Lucro Total: Combinando todos esses fatores, a "FitnessGear Inc." experimentou um aumento de 30% no lucro líquido no primeiro ano após a implementação do sistema de recomendação.
+
+
+# Funcionamento da aplicação 
+[streamlit-recomendacao-2023-08-08-18-08-96.webm](https://github.com/thiagoramos20042/sistema_recomendacao/assets/70378113/f84ea445-372b-4f1e-9946-5d780d076a5b)
+

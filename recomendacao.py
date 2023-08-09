@@ -86,7 +86,6 @@ def explanation_page():
     - Diagnóstico Médico para Detecção de Doenças: Auxilia no diagnóstico preciso.
     - Reconhecimento Facial em Sistemas de Segurança: Reforça a segurança.
     - Avaliação de Crédito em Bancos: Ajuda na tomada de decisões sobre concessão de crédito.
-    - Otimização de Consumo de Energia: Promove a eficiência energética.
     """)
 
     st.header('Conclusão')

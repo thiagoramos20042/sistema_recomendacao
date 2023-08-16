@@ -25,4 +25,3 @@ Expansão do Catálogo Vendido: Produtos anteriormente ignorados ou menos popula
 
 # Deploy do modelo no Streamlit 
 https://sistemarecomendacao-rm8zpkl3y5jvarkd3tlgc8.streamlit.app/
-

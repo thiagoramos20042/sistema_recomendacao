@@ -2,9 +2,9 @@
 
 Recomendador que encontra produtos semelhantes em um catálogo de equipamentos de treino.
 
-**Machine learning** · Aplicação Streamlit
+**Inteligência Artificial** · Aplicação Streamlit
 
-[← Portfólio de Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
+[← Data Science, IA e Automações · Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
 
 ## Objetivo
 

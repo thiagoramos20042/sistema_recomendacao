@@ -1,27 +1,46 @@
-# Sistema de Recomendação 
-# Problema de Negócio Hipotético
+# Fitness | Recomendação de produtos com k-NN
 
-A "FitnessGear Inc.", uma empresa líder em equipamentos de treinamento de força, enfrentava um problema significativo com sua plataforma de comércio eletrônico. Embora a empresa oferecesse uma ampla variedade de produtos, desde pesos livres até máquinas sofisticadas, eles estavam enfrentando baixas taxas de conversão e uma média de venda por cliente abaixo das expectativas.
+Recomendador que encontra produtos semelhantes em um catálogo de equipamentos de treino.
 
-A análise dos padrões de navegação revelou que os clientes frequentemente se sentiam sobrecarregados com a vasta seleção de produtos e tinham dificuldade em encontrar itens que se adequassem às suas necessidades específicas. Como resultado, muitos visitantes saíam do site sem fazer uma compra, ou compravam apenas os itens mais populares, perdendo produtos complementares que poderiam ser de seu interesse.
+**Machine learning** · Aplicação Streamlit
 
-- Solução Implementada
-A empresa decidiu implementar um sistema de recomendação personalizado utilizando o algoritmo k-NN (k vizinhos mais próximos). Esta abordagem permitiu que a "FitnessGear Inc." analisasse as preferências individuais dos clientes, tais como avaliações e histórico de compras, e oferecesse recomendações de produtos personalizadas.
+[← Portfólio de Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
 
-O sistema recomendava produtos semelhantes, complementares e muitas vezes ignorados que estavam alinhados com as preferências e necessidades individuais do cliente.
+## Objetivo
 
-- Retorno Financeiro
-A implementação do sistema de recomendação teve um impacto profundo nos resultados financeiros da empresa:
+Explorar a descoberta de itens a partir de similaridade entre características dos produtos.
 
-- Aumento nas Vendas Cruzadas: Ao sugerir produtos complementares, como acessórios ou itens relacionados, o valor médio do carrinho de compras aumentou em 25%.
-Melhoria na Taxa de Conversão: A taxa de conversão do site aumentou em 18%, já que os clientes encontraram mais facilmente produtos que atendiam às suas necessidades.
-- Crescimento na Retenção de Clientes: A experiência de compra personalizada melhorou a satisfação do cliente, resultando em um aumento de 10% na retenção de clientes.
-Expansão do Catálogo Vendido: Produtos anteriormente ignorados ou menos populares começaram a ser vendidos, aumentando a diversidade de vendas e reduzindo o excesso de estoque em 15%.
-- Aumento no Lucro Total: Combinando todos esses fatores, a "FitnessGear Inc." experimentou um aumento de 30% no lucro líquido no primeiro ano após a implementação do sistema de recomendação.
+## O que você encontra
 
+- Leitura do catálogo e normalização de atributos.
+- Busca por vizinhos próximos com NearestNeighbors.
+- Interface com recomendações, imagens e explicação do método.
 
-# Funcionamento da aplicação 
-[streamlit-recomendacao-2023-08-08-18-08-96.webm](https://github.com/thiagoramos20042/sistema_recomendacao/assets/70378113/f84ea445-372b-4f1e-9946-5d780d076a5b)
+## Tecnologias
 
-# Deploy do modelo no Streamlit 
-https://sistemarecomendacao-rm8zpkl3y5jvarkd3tlgc8.streamlit.app/
+Python · Streamlit · pandas · NumPy · scikit-learn
+
+## Arquivos principais
+
+| Arquivo | Conteúdo |
+| --- | --- |
+| [recomendacao.py](recomendacao.py) | Aplicação, preparação dos atributos e recomendação. |
+| [Strength Training.csv](Strength%20Training.csv) | Catálogo utilizado pelo sistema. |
+| [requirements.txt](requirements.txt) | Dependências registradas no ambiente original. |
+
+## Como explorar
+
+Na raiz do repositório, em um ambiente Python separado:
+
+```bash
+python -m pip install streamlit pandas numpy scikit-learn
+python -m streamlit run recomendacao.py
+```
+
+## Contexto do projeto
+
+FitnessGear é o cenário hipotético do projeto. Percentuais de vendas, conversão e lucro apresentados na narrativa original são ilustrativos; não são resultados financeiros medidos.
+
+---
+
+Integra o [portfólio de Thiago Oliveira](https://github.com/thiagoramos20042).
